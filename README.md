@@ -1,4 +1,4 @@
-<img src="image/封面縮圖.gif" width="600" alt="專案封面">
+<img src="image/title.gif" width="600" alt="專案封面">
 
 # Smart Guide Glasses (智慧視障導盲輔助眼鏡)
 
